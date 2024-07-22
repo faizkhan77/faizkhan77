@@ -1,3 +1,4 @@
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif)](https://faizkhanpy.pythonanywhere.com/)
 <h1 align="center">Hi 👋, I'm Mohd Faiz Khan</h1>
 <h3 align="center">An aspiring Python Developer and Data Analyst with a strong background in software development, machine learning, and artificial intelligence.</h3>
 <img align"right" alt="Machine Learning and AI" width="700px" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"> 
