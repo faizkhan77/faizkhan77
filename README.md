@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Mohd Faiz Khan</h1>
-<h3 align="center">Python Developer and ML Enthusiast: Building Intelligent Solutions with Data.</h3>
+[![](https://github.com/faizkhan77/faizkhan77/blob/output/chat.svg)](https://www.linkedin.com/in/izammohammed/) 
+
+
 <div align="center">
   <img height="200" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"  />
 </div>
@@ -8,10 +9,6 @@
 ###
 
 - 👨‍💻 All of my projects are available at [https://github.com/faizkhan77](https://github.com/faizkhan77)
-
-- 💬 Ask me about **python, django, machine learning**
-
-- 📫 How to reach me **faizkhan.net7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
