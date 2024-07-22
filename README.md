@@ -66,8 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-[![](https://github.com/faizkhan77/faizkhan77/output/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/faiz-khan77/)
-
+![snake gif](https://github.com/faizkhan77/faizkhan77/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizkhan77&show_icons=true&locale=en&layout=compact" alt="faizkhan77" /></p>
