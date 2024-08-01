@@ -1,5 +1,5 @@
 
-[![](https://github.com/faizkhan77/faizkhan77/blob/output/chat.svg)](https://www.linkedin.com/in/faiz-khan77/) 
+[![](https://github.com/faizkhan77/faizkhan77/blob/output/mychat.svg)](https://www.linkedin.com/in/faiz-khan77/) 
 
 
 <div align="center">
