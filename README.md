@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img height="350" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"  />
+  <img height="350" src="mygif.gif"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
