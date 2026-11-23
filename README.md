@@ -1,11 +1,6 @@
-<!-- Banner -->
-<a href="https://www.linkedin.com/in/faiz-khan77/">
-  <img src="./chat.svg" width="100%" alt="Faiz Khan" />
+<a href="https://faizkhan.aqlity.com">
+  <img src="./hero.svg" width="100%" alt="Mohd Faiz Khan, AI/ML engineer: animated terminal running a multi-agent pipeline from plan to production" />
 </a>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=I+build+AI+systems+that+leave+the+notebook.;Agents+%C2%B7+LLM+Orchestration+%C2%B7+RAG+%C2%B7+MLOps;From+model+to+API+to+product." alt="Typing intro" />
-</p>
 
 <p align="center">
   <a href="https://faizkhan.aqlity.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
@@ -18,20 +13,9 @@
 
 <br>
 
-### whoami
+I'm an AI/ML engineer with a full-stack background, which mostly means I don't stop at the model. For the past 2+ years I've built multi-agent systems, LLM orchestration and RAG pipelines, MCP servers, and the backends and frontends that put them in front of real users.
 
-I'm an AI/ML engineer with a full-stack background, which mostly means I don't stop at the model. Over the past 2+ years I've built multi-agent systems, LLM orchestration and RAG pipelines, MCP servers, and the backends and frontends that put them in front of real users, from conversational assistants to agents that reason over live market data.
-
-The part I enjoy most is the gap between "it works in a notebook" and "it works in production": making systems faster, cheaper, observable, and honest about what they don't know.
-
-```python
-faiz = {
-    "focus":      ["agentic systems", "LLM orchestration", "RAG", "applied ML"],
-    "ships_with": ["FastAPI", "Docker", "Redis", "Airflow", "React / Next.js"],
-    "cares_about": ["latency", "evals", "groundedness", "cost per answer"],
-    "believes":   "a model is only as good as the system around it",
-}
-```
+What I care about is the gap between "it works in a notebook" and "it works in production": making systems faster, cheaper, observable, and honest about what they don't know. The terminal above is roughly how I think about every system I build.
 
 <br>
 
